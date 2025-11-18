@@ -21,6 +21,6 @@ Modelos:
 - Deep Neural Network (DNN) built with TensorFlow/Keras, consisting of multiple Dense layers.
 
 Enlaces:
-  - Código: [https://colab.research.google.com/github/jjlizcano/Sistema-recomendaciones-cultivo/blob/main/notebooks/Primera_entrega_proyecto_IA.ipynb]
+  - Código: [https://colab.research.google.com/github/jjlizcano/Sistema-recomendaciones-cultivo/blob/main/codigo_proyecto.ipynb]
   - Video: [https://youtu.be/myJZP7sfxAw]
   - Repositorio: [https://github.com/jjlizcano/Sistema-recomendaciones-cultivo]
