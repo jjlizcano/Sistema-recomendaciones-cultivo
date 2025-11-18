@@ -22,5 +22,5 @@ Modelos:
 
 Enlaces:
   - Código: [https://colab.research.google.com/github/jjlizcano/Sistema-recomendaciones-cultivo/blob/main/notebooks/Primera_entrega_proyecto_IA.ipynb]
-  - Video: [URL_VIDEO]
+  - Video: [https://youtu.be/myJZP7sfxAw]
   - Repositorio: [https://github.com/jjlizcano/Sistema-recomendaciones-cultivo]
