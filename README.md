@@ -1,5 +1,3 @@
-# Sistema-recomendaciones-cultivo
-
 ![Portada](data/banner.png)
 
 Autores: 
